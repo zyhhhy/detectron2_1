@@ -1,0 +1,1 @@
+python3 demo.py --config-file ../configs/PascalVOC-Detection/faster_rcnn_R_50_FPN.yaml   --input EMT.jpg   --output result_EMT.jpg   --opts MODEL.WEIGHTS detectron2://PascalVOC-Detection/faster_rcnn_R_50_FPN/142423278/model_final_af9cf5.pkl
